@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jaira
- *
- */
-module PatronesDeDiseno {
-}
